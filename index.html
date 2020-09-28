@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-animation-component@%5E3.2.x/dist/aframe-animation-component.min.js"></script>
 </head>
 
 <body>
@@ -25,6 +26,8 @@
                 <a-asset-item id="Mobile" src="Assets/Objects/Mobile/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Charg" src="Assets/Objects/Charging/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Outside" src="Assets/Objects/Home/scene.gltf"> </a-asset-item>
+                <a-asset-item id="Fan" src="Assets/Objects/Fan/scene.gltf"> </a-asset-item>
+                <a-asset-item id="Drone" src="Assets/Objects/Drone/scene.gltf"> </a-asset-item>
                 
                 
 
@@ -81,9 +84,9 @@
             <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 0 -15" material="src: url(floorandceiling\floor.jpg); shader: flat; side: double; opacity: 1; repeat: 30 10; metalness: 0; roughness: 1"></a-entity>
             
             <!--Ceiling-->
-            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 0" material="src: url(floorandceiling\Ceiling.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
-            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="-30 10 0" material="src: url(floorandceiling\Ceiling.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
-            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 -15" material="src: url(floorandceiling\Ceiling.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
+            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 0" material="src: url(floorandceiling\Walls.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
+            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="-30 10 0" material="src: url(floorandceiling\Walls.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
+            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 -15" material="src: url(floorandceiling\Walls.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
             
             <a-sky src="#sky"></a-sky>
 
@@ -103,16 +106,7 @@
             
             <!--Bookshelf-->
             <a-entity gltf-model="#Bookshelf" position="8 1.8 -9" scale="0.1 0.1 0.1" rotation = "0 0 360"> </a-entity>
-            
-            <!--Light Color change-->
-            <a-text id="text1" position="-16 5 -9" rotation="0 90 0" scale="3 3 3"
-            text="value: MED; font: Assets/Oswald-Light.fnt; align: center; opacity: 1; color: #000000; wrapCount: 60; letterSpacing: 0; lineHeight: 64; width: 6; height: 0; side: double; anchor: center;"
-            shadow="cast: true; receive: true;" visible="true"></a-text>
-
-            <a-text id="text2" position="-16 5 6.5" rotation="0 90 0" scale="1 1 1"
-            text="value: HI; font: assets/Oswald-SemiBold.fnt; align: center; opacity: 1; color: #000000; wrapCount: 60; letterSpacing: 0; lineHeight: 64; width: 6; height: 0; side: double; anchor: center;"
-            shadow="cast: true; receive: true;" visible="true"></a-text>
-      
+    
 
             <!--Lights 1-->
             <a-cylinder height="4" radius="0.03" position = "0 9.5 -5" material="src: url(floorandceiling\black.png);shader: flat; side: double; opacity: 1; repeat: 15 10; metalness: 0; roughness: 1"></a-cylinder>
@@ -130,7 +124,7 @@
             <a-cone material="src: url(floorandceiling\metal.jpg);shader: flat; side: double; opacity: 1; repeat: 15 10; metalness: 0; roughness: 1" radius-bottom="1" radius-top="0.9" height="0.22" position ="0 7.4 1" ></a-cone>
             <a-circle material="src: url(floorandceiling\white.jpg);shader: flat; side: double; opacity: 1; repeat: 15 10; metalness: 0; roughness: 1" position ="0 7.287 1" rotation="90 0 90" radius="1"></a-circle>
             
-            
+            <!--
             <a-entity gltf-model="#Chair" position="8 0 0" scale="0.05 0.05 0.05" rotation = "0 360 0"> </a-entity>
             <a-entity gltf-model="#Chair" position="-1 0 6" scale="0.05 0.05 0.05" rotation = "0 270 0"> </a-entity>
 
@@ -140,9 +134,10 @@
             <a-entity gltf-model="#Cones" position="9 0.8 1.5" scale="0.03 0.03 0.03" rotation = "0 90 0"> </a-entity>
             <a-entity gltf-model="#Cones" position="2 0.8 6.7" scale="0.03 0.03 0.03" rotation = "0 90 0"> </a-entity>
             <a-entity gltf-model="#Cones" position="-2.50 0.8 6.7" scale="0.03 0.03 0.03" rotation = "0 90 0"> </a-entity>
-            
+            -->
+
             <!--Chair for Table 1-->
-            <a-entity gltf-model="#Chairft" position="-27 0 4.7" scale="0.02 0.""02 0.02" rotation = "0 270 0"> </a-entity>
+            <a-entity gltf-model="#Chairft" position="-27 0 4.7" scale="0.02 0.02 0.02" rotation = "0 270 0"> </a-entity>
             <a-entity gltf-model="#Chairft" position="-30 0 7.5" scale="0.02 0.02 0.02" rotation = "0 180 0"> </a-entity>
             <a-entity gltf-model="#Chairft" position="-30 0 1.5" scale="0.02 0.02 0.02" rotation = "0 360 0"> </a-entity>
             
@@ -179,7 +174,26 @@
             <a-entity gltf-model="#Charg" position="-17 0.4 -4" scale="1 1 1" rotation = "0 180 0"> </a-entity>
             <a-entity gltf-model="#Charg" position="-17 0.4 1" scale="1 1 1" rotation = "0 180 0"> </a-entity>
             <a-entity gltf-model="#Charg" position="-17 0.4 3.5" scale="1 1 1" rotation = "0 180 0"> </a-entity>
-            -->
+            
+            <a-entity gltf-model="#Fan" position="-25 9 1.5" scale="0.5 0.5 0.5" rotation = "0 0 0" class="intersectable">
+                <a-animation attribute="rotation"
+                dur="3000"
+                from="0 0 0"
+                to="0 360 0"
+                repeat="indefinite"
+                easing="linear"></a-animation>
+            </a-entity>
+            <a-entity position="0 4 1"><a-animation attribute="rotation" to ="0 360 0" repeat="indefinite"
+            dur="5000" easing="linear" ></a-animation>
+            <a-entity gltf-model="#Drone" position="6 4.5 1" scale="0.005 0.005 0.005" rotation = "0 90 0" >
+                <a-animation attribute="rotation" to ="0 360 0" repeat="indefinite"
+                dur="5000" easing="linear" ></a-animation>
+            </a-entity>
+        </a-entity>
+
+            </a-entity>
+
+
             <!--house model
             <a-entity gltf-model="#Outside" position="-60 2.5 95" scale="0.05 0.05 0.05" rotation = "0 0 0"> </a-entity>
             -->
