@@ -32,18 +32,18 @@ The application is written in HTML, A-Frame and Javascript
 
 [Fan](https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a)
 
-https://sketchfab.com/3d-models/drone-ce248709dea64ec1844e8dd9b614f7c0
+[Drone](https://sketchfab.com/3d-models/drone-ce248709dea64ec1844e8dd9b614f7c0)
 
-https://sketchfab.com/3d-models/tv-screen-2ecf44715572498db41acb4bf3227550
+[TV screen](https://sketchfab.com/3d-models/tv-screen-2ecf44715572498db41acb4bf3227550)
 
-https://sketchfab.com/3d-models/bookshelf-b8f46cf7daca419a87ac8d131bad056f
+[Book shelf](https://sketchfab.com/3d-models/bookshelf-b8f46cf7daca419a87ac8d131bad056f)
 
-https://sketchfab.com/3d-models/waiting-room-chairs-fd6f2c8d76ef4a1a8b932516284d50b0
+[Room 1 Chairs](https://sketchfab.com/3d-models/waiting-room-chairs-fd6f2c8d76ef4a1a8b932516284d50b0)
 
-https://sketchfab.com/3d-models/traffic-cone-618218463ce34a0b97a058d37f844cf5
+[Traffic cones](https://sketchfab.com/3d-models/traffic-cone-618218463ce34a0b97a058d37f844cf5)
 
-https://sketchfab.com/3d-models/gaming-laptop-4e72a2078b3c4a75a821ab09830693fe
+[Laptop](https://sketchfab.com/3d-models/gaming-laptop-4e72a2078b3c4a75a821ab09830693fe)
 
-https://sketchfab.com/3d-models/wooden-chair-72b2c9d23bbd4ae4b63d4537c0c5b28d
+[Throne chair](https://sketchfab.com/3d-models/wooden-chair-72b2c9d23bbd4ae4b63d4537c0c5b28d)
 
-https://sketchfab.com/3d-models/medieval-chandelier-dd8b8bd637b5420badb323d5ec82a948
+[Chandelier](https://sketchfab.com/3d-models/medieval-chandelier-dd8b8bd637b5420badb323d5ec82a948)
