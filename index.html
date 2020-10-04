@@ -39,9 +39,9 @@
                 <a-asset-item id="Cones" src="Assets/Objects/Cones/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Chairft" src="Assets/Objects/Chair_for_table/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Laptop" src="Assets/Objects/Laptop/scene.gltf"> </a-asset-item> 
-               <!-- <a-asset-item id="Books" src="Assets/Objects/Books/scene.gltf"> </a-asset-item>
+                <a-asset-item id="Books" src="Assets/Objects/Books/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Charg" src="Assets/Objects/Charging/scene.gltf"> </a-asset-item>
-                -->
+                
                 <a-asset-item id="NBB" src="Assets/Objects/Notice board/scene.gltf"> </a-asset-item>
 
                 <audio id="audio" crossorigin="anonymous" src="Assets/Objects/Music/time_to_go.mp3"></audio>
@@ -57,6 +57,7 @@
                 <a-asset-item id="Fan" src="Assets/Objects/Fan/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Drone" src="Assets/Objects/Drone/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Sani" src="Assets/Objects/Sanitize/scene.gltf"> </a-asset-item>
+            
 
                 
             </a-assets>
@@ -155,7 +156,7 @@
             <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 0 -15" material="src: url(floorandceiling\floor.jpg); shader: flat; side: double; opacity: 1; repeat: 30 10; metalness: 0; roughness: 1"></a-entity>
             
             <!--Ceiling-->
-            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 0" material="src: url(floorandceiling\Wallsjpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
+            <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 0" material="src: url(floorandceiling\Walls.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
             <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="-30 10 0" material="src: url(floorandceiling\Walls.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
             <a-entity geometry="primitive: box; depth: 20; height:0.1; width: 30" position="0 10 -15" material="src: url(floorandceiling\Walls.jpg); shader: flat; side: double; opacity: 1; repeat: 10 15; metalness: 0; roughness: 1"></a-entity>
             
@@ -165,6 +166,7 @@
             <a-entity gltf-model="#Desk" position="-14 1 -7" scale="0.009 0.009 0.009" rotation = "0 90 0"> </a-entity>
             <a-entity gltf-model="#Desk" position="-14 1 1" scale="0.009 0.009 0.009" rotation = "0 90 0"> </a-entity>
 
+        
             <!--TV-->
             <a-entity gltf-model="#TV" position="0 5 -9" scale="0.09 0.09 0.09" rotation = "0 0 360"> </a-entity>
                     
@@ -246,7 +248,7 @@
             <a-entity gltf-model="#Chan" position= "0 7 -19" scale="0.05 0.05 0.05" rotation = "0 90 0"> </a-entity>
 
             <a-entity gltf-model="#Frame" position= "0 5 -24" scale="0.005 0.005 0.005" rotation = "0 270 0"> </a-entity>
-     
+        
             <a-entity gltf-model="#Fan" position="-30 7 3" scale="3 3 3" rotation = "0 0 0" class="intersectable">
                 <a-animation attribute="rotation"
                 dur="3000"
@@ -289,9 +291,11 @@
             <a-entity gltf-model="#Cones" position="-3.8 0.8 5.7" scale="0.03 0.03 0.03" rotation = "0 90 0"> </a-entity>
 
             <a-entity gltf-model="#Sani" position="-32 1.5 5" scale="0.09 0.09 0.09" rotation = "0 90 0"> </a-entity>
-            <a-entity gltf-model="#Sani" position="-41.5 1.5 -5" scale="0.09 0.09 0.09" rotation = "0 90 0"> </a-entity>
+            <a-entity gltf-model="#Sani" position="-42 1.5 -5" scale="0.09 0.09 0.09" rotation = "0 90 0"> </a-entity>
             <a-entity gltf-model="#Sani" position="-23 1.5 -2" scale="0.09 0.09 0.09" rotation = "0 90 0"> </a-entity>
 
+            <a-entity geometry='primitive: box; depth:0.01; height: 4; width: 7' position ="-14 5 -7" scale="0.5 0.5 0.5" material="src:url(floorandceiling/Mask.jpg)" rotation="0 90 0"></a-entity>
+            <a-entity geometry='primitive: box; depth:0.01; height: 4; width: 7' position ="-14 5 1" scale="0.5 0.5 0.5" material="src:url(floorandceiling/Mask.jpg)" rotation="0 90 0"></a-entity>
 
             <script type="text/javascript"> 
                 function setScene1() {
