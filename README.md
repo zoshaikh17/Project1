@@ -5,7 +5,11 @@
 
 ### Click the link below for a live demo:
 
+The application is written in HTML, A-Frame and Javascript
 ## Libraries used:
+-aframe.min.js
+-aframe-extras.min.js
+-aframe-extras.loaders.min.js
 
 
 https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a
