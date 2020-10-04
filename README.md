@@ -32,6 +32,10 @@ The application is written in HTML, A-Frame and Javascript
 
 ![2](https://user-images.githubusercontent.com/55362861/95026728-09ba6a80-0659-11eb-96f4-515a107c00d4.JPG)
 
+![Table](https://user-images.githubusercontent.com/55362861/95022695-14afd380-0636-11eb-9a57-28d16313fc99.PNG)
+
+  
+## While COVID
 ![3](https://user-images.githubusercontent.com/55362861/95026729-09ba6a80-0659-11eb-8127-b1a423eaff86.JPG)
 
 ![4](https://user-images.githubusercontent.com/55362861/95026730-09ba6a80-0659-11eb-8ed4-96ff2d445347.JPG)
@@ -41,8 +45,6 @@ The application is written in HTML, A-Frame and Javascript
 ![r1](https://user-images.githubusercontent.com/55362861/95022690-124d7980-0636-11eb-90fa-d0e531584b08.PNG)
 
 ![Room1](https://user-images.githubusercontent.com/55362861/95022691-12e61000-0636-11eb-9ab8-41ff0bf3eab0.PNG)
-
-![Table](https://user-images.githubusercontent.com/55362861/95022695-14afd380-0636-11eb-9a57-28d16313fc99.PNG)
 
 ## Resources Used
 [Fan](https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a)
