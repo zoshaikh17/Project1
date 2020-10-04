@@ -15,6 +15,21 @@ The application is written in HTML, A-Frame and Javascript
 
 ![Blackboard](https://user-images.githubusercontent.com/55362861/95022670-e6ca8f00-0635-11eb-87ba-ed6a97143e4b.PNG)
 
+![Discussion board](https://user-images.githubusercontent.com/55362861/95022689-124d7980-0636-11eb-9a5e-f759c93b95eb.PNG)
+
+![r1](https://user-images.githubusercontent.com/55362861/95022690-124d7980-0636-11eb-90fa-d0e531584b08.PNG)
+
+![Room1](https://user-images.githubusercontent.com/55362861/95022691-12e61000-0636-11eb-9ab8-41ff0bf3eab0.PNG)
+
+![Room2](https://user-images.githubusercontent.com/55362861/95022692-137ea680-0636-11eb-9193-0ae016735286.PNG)
+
+![Room3](https://user-images.githubusercontent.com/55362861/95022693-137ea680-0636-11eb-8c85-3100ddf81778.PNG)
+
+![Room21](https://user-images.githubusercontent.com/55362861/95022694-14173d00-0636-11eb-8137-ce4568b5b166.PNG)
+
+![Table](https://user-images.githubusercontent.com/55362861/95022695-14afd380-0636-11eb-9a57-28d16313fc99.PNG)
+
+
 https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a
 
 https://sketchfab.com/3d-models/drone-ce248709dea64ec1844e8dd9b614f7c0
