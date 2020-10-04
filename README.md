@@ -13,9 +13,12 @@ The application is written in HTML, A-Frame and Javascript
 
 -aframe-extras.loaders.min.js
 
+## Unique models
 ![Blackboard](https://user-images.githubusercontent.com/55362861/95022670-e6ca8f00-0635-11eb-87ba-ed6a97143e4b.PNG)
 
 ![Discussion board](https://user-images.githubusercontent.com/55362861/95022689-124d7980-0636-11eb-9a5e-f759c93b95eb.PNG)
+
+![Room2](https://user-images.githubusercontent.com/55362861/95022692-137ea680-0636-11eb-9193-0ae016735286.PNG)
 
 ![1](https://user-images.githubusercontent.com/55362861/95026726-0921d400-0659-11eb-83b5-424d15a0455d.JPG)
 
@@ -31,7 +34,7 @@ The application is written in HTML, A-Frame and Javascript
 
 ![Room1](https://user-images.githubusercontent.com/55362861/95022691-12e61000-0636-11eb-9ab8-41ff0bf3eab0.PNG)
 
-![Room2](https://user-images.githubusercontent.com/55362861/95022692-137ea680-0636-11eb-9193-0ae016735286.PNG)
+
 
 ![Room3](https://user-images.githubusercontent.com/55362861/95022693-137ea680-0636-11eb-8c85-3100ddf81778.PNG)
 
