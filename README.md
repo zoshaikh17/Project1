@@ -8,7 +8,9 @@
 The application is written in HTML, A-Frame and Javascript
 ## Libraries used:
 -aframe.min.js
+
 -aframe-extras.min.js
+
 -aframe-extras.loaders.min.js
 
 
