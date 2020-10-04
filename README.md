@@ -20,8 +20,11 @@ The application is written in HTML, A-Frame and Javascript
 
 ![Room2](https://user-images.githubusercontent.com/55362861/95022692-137ea680-0636-11eb-9193-0ae016735286.PNG)
 
+![6](https://user-images.githubusercontent.com/55362861/95026813-a4b34480-0659-11eb-9252-ad29f2adfd9c.JPG)
+
 ![1](https://user-images.githubusercontent.com/55362861/95026726-0921d400-0659-11eb-83b5-424d15a0455d.JPG)
 
+## Before COVID 
 ![2](https://user-images.githubusercontent.com/55362861/95026728-09ba6a80-0659-11eb-96f4-515a107c00d4.JPG)
 
 ![3](https://user-images.githubusercontent.com/55362861/95026729-09ba6a80-0659-11eb-8127-b1a423eaff86.JPG)
