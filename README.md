@@ -4,6 +4,7 @@
 
 
 ### Click the link below for a live demo:
+https://zoshaikh17.github.io/Project1/
 
 The application is written in HTML, A-Frame and Javascript
 ## Libraries used:
@@ -22,9 +23,13 @@ The application is written in HTML, A-Frame and Javascript
 
 ![6](https://user-images.githubusercontent.com/55362861/95026813-a4b34480-0659-11eb-9252-ad29f2adfd9c.JPG)
 
+## Before COVID 
 ![1](https://user-images.githubusercontent.com/55362861/95026726-0921d400-0659-11eb-83b5-424d15a0455d.JPG)
 
-## Before COVID 
+![Room3](https://user-images.githubusercontent.com/55362861/95022693-137ea680-0636-11eb-8c85-3100ddf81778.PNG)
+
+![Room21](https://user-images.githubusercontent.com/55362861/95022694-14173d00-0636-11eb-8137-ce4568b5b166.PNG)
+
 ![2](https://user-images.githubusercontent.com/55362861/95026728-09ba6a80-0659-11eb-96f4-515a107c00d4.JPG)
 
 ![3](https://user-images.githubusercontent.com/55362861/95026729-09ba6a80-0659-11eb-8127-b1a423eaff86.JPG)
@@ -37,15 +42,9 @@ The application is written in HTML, A-Frame and Javascript
 
 ![Room1](https://user-images.githubusercontent.com/55362861/95022691-12e61000-0636-11eb-9ab8-41ff0bf3eab0.PNG)
 
-
-
-![Room3](https://user-images.githubusercontent.com/55362861/95022693-137ea680-0636-11eb-8c85-3100ddf81778.PNG)
-
-![Room21](https://user-images.githubusercontent.com/55362861/95022694-14173d00-0636-11eb-8137-ce4568b5b166.PNG)
-
 ![Table](https://user-images.githubusercontent.com/55362861/95022695-14afd380-0636-11eb-9a57-28d16313fc99.PNG)
 
-
+## Resources Used
 [Fan](https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a)
 
 [Drone](https://sketchfab.com/3d-models/drone-ce248709dea64ec1844e8dd9b614f7c0)
