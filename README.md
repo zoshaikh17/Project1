@@ -17,6 +17,16 @@ The application is written in HTML, A-Frame and Javascript
 
 ![Discussion board](https://user-images.githubusercontent.com/55362861/95022689-124d7980-0636-11eb-9a5e-f759c93b95eb.PNG)
 
+![1](https://user-images.githubusercontent.com/55362861/95026726-0921d400-0659-11eb-83b5-424d15a0455d.JPG)
+
+![2](https://user-images.githubusercontent.com/55362861/95026728-09ba6a80-0659-11eb-96f4-515a107c00d4.JPG)
+
+![3](https://user-images.githubusercontent.com/55362861/95026729-09ba6a80-0659-11eb-8127-b1a423eaff86.JPG)
+
+![4](https://user-images.githubusercontent.com/55362861/95026730-09ba6a80-0659-11eb-8ed4-96ff2d445347.JPG)
+
+![5](https://user-images.githubusercontent.com/55362861/95026731-09ba6a80-0659-11eb-9bb7-2cebdbe848e2.JPG)
+
 ![r1](https://user-images.githubusercontent.com/55362861/95022690-124d7980-0636-11eb-90fa-d0e531584b08.PNG)
 
 ![Room1](https://user-images.githubusercontent.com/55362861/95022691-12e61000-0636-11eb-9ab8-41ff0bf3eab0.PNG)
