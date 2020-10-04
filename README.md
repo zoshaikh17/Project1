@@ -47,3 +47,5 @@ The application is written in HTML, A-Frame and Javascript
 [Throne chair](https://sketchfab.com/3d-models/wooden-chair-72b2c9d23bbd4ae4b63d4537c0c5b28d)
 
 [Chandelier](https://sketchfab.com/3d-models/medieval-chandelier-dd8b8bd637b5420badb323d5ec82a948)
+
+[Vending Machine](https://sketchfab.com/3d-models/vending-machine-f537e142a592428d85ca7a940be221d3)
