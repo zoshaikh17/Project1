@@ -30,7 +30,7 @@ The application is written in HTML, A-Frame and Javascript
 ![Table](https://user-images.githubusercontent.com/55362861/95022695-14afd380-0636-11eb-9a57-28d16313fc99.PNG)
 
 
-https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a
+[![Fan](/https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a)]
 
 https://sketchfab.com/3d-models/drone-ce248709dea64ec1844e8dd9b614f7c0
 
