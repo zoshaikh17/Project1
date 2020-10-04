@@ -39,11 +39,11 @@
                 <a-asset-item id="Cones" src="Assets/Objects/Cones/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Chairft" src="Assets/Objects/Chair_for_table/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Laptop" src="Assets/Objects/Laptop/scene.gltf"> </a-asset-item> 
+                
                 <a-asset-item id="Books" src="Assets/Objects/Books/scene.gltf"> </a-asset-item>
                 <a-asset-item id="Charg" src="Assets/Objects/Charging/scene.gltf"> </a-asset-item>
                 
                 <a-asset-item id="NBB" src="Assets/Objects/Notice board/scene.gltf"> </a-asset-item>
-
                 <audio id="audio" crossorigin="anonymous" src="Assets/Objects/Music/time_to_go.mp3"></audio>
 
 
@@ -263,17 +263,19 @@
           
             
             <a-entity gltf-model="#Proj" position="3 8 -16" scale="0.05 0.05 0.05" rotation = "0 360 0"> </a-entity>
-             
+              -->
             <a-entity move-drone class="intersectable" position="13 0.1 2.5" >
             <a-gltf-model src="#Drone" scale="4 4 4" rotation="0 90 0"></a-gltf-model>
             <a-animation attribute="position"
                 dur="9000"
-                from="--14 6 2.5"
+                from="-14 6 2.5"
                 to=" 10 6.4 2.5"
                 repeat="indefinite"
                 easing="linear"></a-animation>
             </a-entity>
-    
+       
+        
+
         <a-box color="red" position="-15 3 9" scale="0.5 0.5 0.5" onclick="setScene2()" > </a-box>
         <a-box color="green" position="-15 3 10" scale="0 0 0" audiohandler></a-box>
         <a-entity  position="1.5 0.1 0.75">
