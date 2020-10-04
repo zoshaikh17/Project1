@@ -12,7 +12,8 @@ The application is written in HTML, A-Frame and Javascript
 -aframe-extras.min.js
 
 -aframe-extras.loaders.min.js
-[![ScreenShot](/https://github.com/zoshaikh17/Project1/blob/master/Screenshots/Discussion%20board.PNG)]
+
+![Blackboard](https://user-images.githubusercontent.com/55362861/95022670-e6ca8f00-0635-11eb-87ba-ed6a97143e4b.PNG)
 
 https://sketchfab.com/3d-models/ceiling-fan-household-props-challenge-day-19-2dda12be0b5c465394ff651cd7eb215a
 
